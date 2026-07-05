@@ -6,7 +6,7 @@ Loads a fine-tuned BERT model (saved via save_pretrained) and a Twitter
 sentiment CSV dataset, lets the user click a tweet or type a sentence,
 and displays the predicted sentiment with a confidence score.
 
-Author: <your name>
+
 """
 
 import sys
