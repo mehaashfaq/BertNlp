@@ -203,7 +203,7 @@ The fine-tuned BERT model successfully classifies tweets into four sentiment cat
 
 **Meha Ashfaq**
 
-BS Computer Science
+BS Artificial Intelligence
 
 ---
 
